@@ -2,3 +2,4 @@
   persib, liverpool
 - membuat vlog
 - menambahkan tutorial outsystems
+- menambahkan tutorial java
