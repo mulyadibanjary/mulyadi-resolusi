@@ -1,4 +1,4 @@
 - membuat video mengenai goal highlight
   persib, liverpool
 - menambahkan tutorial outsystems
-- tutorial .net
+- menambahkan tutorial java
